@@ -1,0 +1,7 @@
+.DS_Store
+.Trash/
+.config/
+.cache/
+*.log
+__pycache__/
+.ipynb_checkpoints/
